@@ -13,7 +13,7 @@
 
 - Passionate about **building user-focused products**, solving real-world problems, and contributing to open source.
 - Currently focused on **AI-integrated web apps** & scalable backend systems.
-- Always learning: Docker, Serverless backend, CI/CD, TypeScript, GraphQL, AI Agents.
+- Always learning: Docker, Serverless backend, CI/CD, TypeScript, AI Agents.
 - Interests: Web Development, Startups, Minimal Design, Tech Philosophy, Bhagavad Gita wisdom.
 - **Fun fact:** I can build complete full-stack apps, design UI, and also guide others like a mentor! 😄
 
@@ -52,7 +52,7 @@
 ## 🎯 Goals for 2025
 
 - 🧭 Land a remote developer job
-- 🚀 Build a startup or launch indie projects
+- 🚀 Learn Modern Stack and GEN AI
 - 🎓 Mentor juniors & contribute to community learning
 
 ---
@@ -68,8 +68,8 @@
 
 ## 🤝 Connect with Me
 
-- 🌐 **Portfolio:** [Add your link here]
-- 💼 **LinkedIn:** [Add your link here]
+- 🌐 **Portfolio:** []
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ayush-pal-25b628255/]
 - 🐙 **GitHub:** [ayush1944](https://github.com/ayush1944)
 
 ---
