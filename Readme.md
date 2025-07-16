@@ -68,7 +68,7 @@
 
 ## 🤝 Connect with Me
 
-- 🌐 **Portfolio:** 
+- 🌐 **Portfolio:** ayush-pal.netlify.app
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ayush-pal-25b628255/
 - 🐙 **GitHub:** [ayush1944](https://github.com/ayush1944)
 
