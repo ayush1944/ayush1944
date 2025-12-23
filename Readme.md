@@ -4,8 +4,7 @@
 ---
 
 ![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-MERN%20%2B%20Next.js-blue?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=flat-square)
-![Remote Ready](https://img.shields.io/badge/Remote%20Developer-2025-orange?style=flat-square)
+
 
 ---
 
