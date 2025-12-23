@@ -46,15 +46,6 @@
 | **Realtime Chat App** | Cross-platform chat app using Firebase, Expo, Vite, and shared codebase (Web + Mobile). |
 | **Blog AI Agent (Writo.io)** *(in progress)* | AI assistant that summarizes blogs, explains them to readers, and helps writers generate drafts. |
 
----
-
-## 🎯 Goals for 2025
-
-- 🧭 Land a remote developer job
-- 🚀 Learn Modern Stack and GEN AI
-- 🎓 Mentor juniors & contribute to community learning
-
----
 
 ## 📊 GitHub Stats
 
