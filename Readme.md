@@ -51,14 +51,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&theme=radical&cache_seconds=1800&format=svg"
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ayush1944&theme=radical&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=ayush1944&theme=radical"
     width="48%"
   />
 </p>
+
 
 ---
 
