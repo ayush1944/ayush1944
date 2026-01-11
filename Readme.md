@@ -50,15 +50,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush1944&theme=radical" alt="Ayush's GitHub Streak" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&theme=radical"
+    alt="Ayush's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ayush1944&theme=radical"
+    alt="Ayush's GitHub Streak"
+    width="48%"
+  />
 </p>
 
 ---
 
+
 ## 🤝 Connect with Me
 
-- 🌐 **Portfolio:** https://ayush-pal.netlify.app
+- 🌐 **Portfolio:** https://ayushpal.me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ayush-pal-25b628255/
 - 🐙 **GitHub:** [ayush1944](https://github.com/ayush1944)
 
