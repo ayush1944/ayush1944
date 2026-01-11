@@ -80,7 +80,7 @@ Short links, authentication, analytics, deployed backend.
 ## Contact
 
 - **GitHub:** https://github.com/ayush1944  
-- **Portfolio:** *(add live link)*  
+- **Portfolio:** https://ayushpal.me/
 
 ---
 
