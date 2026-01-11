@@ -1,127 +1,88 @@
 # Ayush Pal  
-**Full-Stack Developer (MERN • React • Next.js • TypeScript)**
+**Full-Stack Developer (React • Next.js • Node.js • TypeScript)**
 
-![Build](https://img.shields.io/badge/build-production--ready-success)
-![Deploy](https://img.shields.io/badge/deploy-vercel%20%7C%20netlify%20%7C%20railway-blue)
-![CI/CD](https://img.shields.io/badge/ci%2Fcd-github%20actions-black)
-![Stack](https://img.shields.io/badge/stack-mern%20%7C%20next.js-informational)
-![Code](https://img.shields.io/badge/code-typescript%20%7C%20javascript-blueviolet)
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs)](https://nextjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-LTS-green?logo=node.js)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
+[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions)]
 
-I build and ship production-grade web products with real users, real deployments, and real constraints.  
-My focus is clean frontend architecture, reliable backends, and owning features end-to-end.
-
----
-
-## About Me
-
-I’m a full-stack developer working primarily with **React, Next.js, Node.js, and MongoDB**.  
-I’ve shipped complete systems — authentication, admin dashboards, analytics, AI integrations, email notifications, and real-time features.
-
-I’m comfortable debugging production issues, managing environment variables, setting up CI/CD, and improving systems after launch. I value clarity, maintainability, and predictable behavior in production.
+I build production-ready web applications and ship features end-to-end — from UI to backend to deployment.  
+Focused on clarity, maintainability, and systems that hold up in production.
 
 ---
 
-## Tech Stack
+## Core Stack
 
-**Frontend**
-- React, Next.js (App Router)
-- TypeScript
-- Tailwind CSS, shadcn/ui
-- Framer Motion
-
-**Backend**
-- Node.js, Express
-- MongoDB (primary), PostgreSQL (basic)
-- Firebase (Auth, Realtime DB, Storage, FCM)
-- REST APIs, role-based access
-
-**DevOps & Tooling**
-- Git, GitHub
-- Docker (fundamentals)
-- GitHub Actions (CI/CD)
-- Deployments: **Vercel, Netlify, Railway, Render, Firebase**
-- Production debugging & env management
+- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
+- **Backend:** Node.js, Express, MongoDB, Firebase  
+- **Infra:** Vercel, Netlify, Railway, Docker (basics), GitHub Actions
+- **DB:** MongoDB, PostgreSQL ( Prisma ) , Supabase , Reddis 
 
 ---
 
 ## Featured Projects
 
-### **Prefyne** — AI Writing & Prompt Refinement Tool
-- Built with **Next.js + TypeScript**
-- Iterative AI refinement workflows (copy, regenerate, re-refine)
-- SaaS-style UX with secure API handling
-- Fully deployed with isolated environments
+### **Prefyne** — AI Writing & Prompt Refinement  
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)]
+[![AI](https://img.shields.io/badge/AI-Integrated-purple)]
 
-**Stack:** Next.js, TypeScript, Tailwind, AI APIs, CI/CD  
-🔗 *Live & deployed*
+Production-ready AI product with iterative refinement flows, secure APIs, and clean UX.  
+Built as a real SaaS-style system, not a demo.
+🔗 https://www.prefyne.tech/
 
 ---
 
-### **NakliZon** — Full-Stack E-commerce
-- Auth, cart, orders, admin dashboard
-- Product & role management
-- Real backend logic and deployment
+### **NakliZon** — E-commerce Platform  
+[![React](https://img.shields.io/badge/React-blue?logo=react)]
+[![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)]
+[![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)]
 
-**Stack:** React, Node.js, Express, MongoDB  
+Auth, cart, orders, admin dashboard, and deployed backend.  
 🔗 https://nakli-zon-9oup.vercel.app/
 
 ---
 
-### **ChotaLink** — URL Shortener with Analytics
-- Secure authentication
-- Link tracking & analytics
-- Clean backend architecture
+### **Realtime Chat App** — Web + Mobile  
+[![React](https://img.shields.io/badge/React-blue?logo=react)]
+[![React Native](https://img.shields.io/badge/React_Native-61dafb?logo=react)]
+[![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)]
 
-**Stack:** MERN  
-🔗 *Deployed*
-
----
-
-### **Realtime Chat App** — Web + Mobile
-- Shared **TypeScript** codebase
-- Web (React/Vite) & Mobile (Expo)
-- Firebase Auth, Realtime DB, Storage, FCM
-- CI/CD with GitHub Actions (Vercel + EAS)
-
-**Stack:** React, React Native, Firebase, TypeScript
+Cross-platform real-time chat with shared TypeScript codebase and CI/CD.
 
 ---
 
-### **Writo.io** *(In Progress)* — AI Content Assistant
-- Blog summarization & generation
-- Built with scalability in mind
+### **ChotaLink** — URL Shortener  
+[![MERN](https://img.shields.io/badge/MERN-Stack-informational)]
 
-**Stack:** Next.js, AI APIs
+Short links, authentication, analytics, deployed backend.
 
 ---
 
-## Hiring Context (How I Fit)
+## Pinned Repositories (Recommended)
 
-**For Startups**
-- Comfortable wearing multiple hats
-- Ship fast, iterate safely, fix production issues
-- Own features end-to-end
+📌 **prefyne** — AI SaaS (Next.js, TypeScript)  
+📌 **naklizon** — Full-stack e-commerce  
+📌 **realtime-chat** — Web + Mobile system  
+📌 **chotalink** — Backend-heavy MERN project  
 
-**For Mid-Size Teams**
-- Write maintainable, readable code
-- Work with existing systems & CI/CD
-- Focus on reliability, clarity, and team velocity
+> Keep these pinned in this order for hiring screens.
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1944&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&hide_border=true)
 
 ---
 
-## Connect
+## Contact
 
 - **GitHub:** https://github.com/ayush1944  
-- **Portfolio:** *(add your live portfolio link)*  
-- **LinkedIn:** *(add if public)*  
+- **Portfolio:** *(add live link)*  
 
 ---
 
-> I prefer systems that work reliably in production over code that only looks impressive.
+> I focus on building systems that survive real users and real production issues.
