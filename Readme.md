@@ -5,7 +5,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs)](https://nextjs.org)
 [![Node.js](https://img.shields.io/badge/Node.js-LTS-green?logo=node.js)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org)
-[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions)]
+[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions)
 
 I build production-ready web applications and ship features end-to-end — from UI to backend to deployment.  
 Focused on clarity, maintainability, and systems that hold up in production.
@@ -73,7 +73,18 @@ Short links, authentication, analytics, deployed backend.
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush1944&label=Profile%20Views&color=grey)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush1944&no-frame=true&column=4)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush1944&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayush1944)
+
+
+## GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayush1944&label=Profile%20Views&color=grey)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush1944&theme=github-compact)
+
 
 ---
 
