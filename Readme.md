@@ -1,85 +1,127 @@
-# 👋 Hi, I'm Ayush Pal!  
-**Full Stack Developer (MERN + Next.js)**
+# Ayush Pal  
+**Full-Stack Developer (MERN • React • Next.js • TypeScript)**
+
+![Build](https://img.shields.io/badge/build-production--ready-success)
+![Deploy](https://img.shields.io/badge/deploy-vercel%20%7C%20netlify%20%7C%20railway-blue)
+![CI/CD](https://img.shields.io/badge/ci%2Fcd-github%20actions-black)
+![Stack](https://img.shields.io/badge/stack-mern%20%7C%20next.js-informational)
+![Code](https://img.shields.io/badge/code-typescript%20%7C%20javascript-blueviolet)
+
+I build and ship production-grade web products with real users, real deployments, and real constraints.  
+My focus is clean frontend architecture, reliable backends, and owning features end-to-end.
 
 ---
 
-![Profile Banner](https://img.shields.io/badge/Full%20Stack%20Developer-MERN%20%2B%20Next.js-blue?style=flat-square)
+## About Me
 
+I’m a full-stack developer working primarily with **React, Next.js, Node.js, and MongoDB**.  
+I’ve shipped complete systems — authentication, admin dashboards, analytics, AI integrations, email notifications, and real-time features.
 
----
-
-## 🚀 About Me
-
-- Passionate about **building user-focused products**, solving real-world problems, and contributing to open source.
-- Currently focused on **AI-integrated web apps** & scalable backend systems.
-- Always learning: Docker, Serverless backend, CI/CD, TypeScript, AI Agents.
-- Interests: Web Development, Startups, Minimal Design, Tech Philosophy, Bhagavad Gita wisdom.
-- **Fun fact:** I can build complete full-stack apps, design UI, and also guide others like a mentor! 😄
+I’m comfortable debugging production issues, managing environment variables, setting up CI/CD, and improving systems after launch. I value clarity, maintainability, and predictable behavior in production.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**💻 Languages:**  
-`JavaScript` `TypeScript` `C++`
+**Frontend**
+- React, Next.js (App Router)
+- TypeScript
+- Tailwind CSS, shadcn/ui
+- Framer Motion
 
-**🌐 Frontend:**  
-`React.js` `Next.js` `Tailwind CSS`
+**Backend**
+- Node.js, Express
+- MongoDB (primary), PostgreSQL (basic)
+- Firebase (Auth, Realtime DB, Storage, FCM)
+- REST APIs, role-based access
 
-**🔧 Backend:**  
-`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs`
-
-**🧠 Tools:**  
-`Docker` `GitHub Actions` `Vercel` `Netlify` `Render` `EAS (Expo)` `Figma`
-
-**📦 Package Managers:**  
-`npm` `yarn` `pnpm`
-
----
-
-## 🧩 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| **NakliZon** | A minimal ecommerce site (not an Amazon clone), built to practice scalable design and full auth-cart-payment flow. |
-| **ChotaLink** | Custom short link generator with analytics, built using MERN and TanStack Router. |
-| **Realtime Chat App** | Cross-platform chat app using Firebase, Expo, Vite, and shared codebase (Web + Mobile). |
-| **Blog AI Agent (Writo.io)** *(in progress)* | AI assistant that summarizes blogs, explains them to readers, and helps writers generate drafts. |
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&theme=radical&cache_seconds=1800&format=svg"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=ayush1944&theme=radical"
-    width="48%"
-  />
-</p>
-
+**DevOps & Tooling**
+- Git, GitHub
+- Docker (fundamentals)
+- GitHub Actions (CI/CD)
+- Deployments: **Vercel, Netlify, Railway, Render, Firebase**
+- Production debugging & env management
 
 ---
 
+## Featured Projects
 
-## 🤝 Connect with Me
+### **Prefyne** — AI Writing & Prompt Refinement Tool
+- Built with **Next.js + TypeScript**
+- Iterative AI refinement workflows (copy, regenerate, re-refine)
+- SaaS-style UX with secure API handling
+- Fully deployed with isolated environments
 
-- 🌐 **Portfolio:** https://ayushpal.me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ayush-pal-25b628255/
-- 🐙 **GitHub:** [ayush1944](https://github.com/ayush1944)
-
----
-
-## 📖 Fun & Philosophy
-
-> "Strive to be a better developer and a better human, every single day."  
-> *Inspired by the Bhagavad Gita.*
+**Stack:** Next.js, TypeScript, Tailwind, AI APIs, CI/CD  
+🔗 *Live & deployed*
 
 ---
 
-<!--
-Feel free to reach out, collaborate, or just say hi!  
-Let's build something amazing together 🚀
--->
+### **NakliZon** — Full-Stack E-commerce
+- Auth, cart, orders, admin dashboard
+- Product & role management
+- Real backend logic and deployment
+
+**Stack:** React, Node.js, Express, MongoDB  
+🔗 https://nakli-zon-9oup.vercel.app/
+
+---
+
+### **ChotaLink** — URL Shortener with Analytics
+- Secure authentication
+- Link tracking & analytics
+- Clean backend architecture
+
+**Stack:** MERN  
+🔗 *Deployed*
+
+---
+
+### **Realtime Chat App** — Web + Mobile
+- Shared **TypeScript** codebase
+- Web (React/Vite) & Mobile (Expo)
+- Firebase Auth, Realtime DB, Storage, FCM
+- CI/CD with GitHub Actions (Vercel + EAS)
+
+**Stack:** React, React Native, Firebase, TypeScript
+
+---
+
+### **Writo.io** *(In Progress)* — AI Content Assistant
+- Blog summarization & generation
+- Built with scalability in mind
+
+**Stack:** Next.js, AI APIs
+
+---
+
+## Hiring Context (How I Fit)
+
+**For Startups**
+- Comfortable wearing multiple hats
+- Ship fast, iterate safely, fix production issues
+- Own features end-to-end
+
+**For Mid-Size Teams**
+- Write maintainable, readable code
+- Work with existing systems & CI/CD
+- Focus on reliability, clarity, and team velocity
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1944&layout=compact&hide_border=true)
+
+---
+
+## Connect
+
+- **GitHub:** https://github.com/ayush1944  
+- **Portfolio:** *(add your live portfolio link)*  
+- **LinkedIn:** *(add if public)*  
+
+---
+
+> I prefer systems that work reliably in production over code that only looks impressive.
