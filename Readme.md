@@ -68,7 +68,6 @@ Short links, authentication, analytics, deployed backend.
 📌 **realtime-chat** — Web + Mobile system  
 📌 **chotalink** — Backend-heavy MERN project  
 
-> Keep these pinned in this order for hiring screens.
 
 ---
 
