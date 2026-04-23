@@ -32,9 +32,9 @@ MERN stack
 
 ## GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush1944&color=grey)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1944&show_icons=true&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayush1944&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush1944&color=grey)
 
 ---
 
